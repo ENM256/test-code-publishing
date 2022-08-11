@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Code Publishing Worklow test
+message: >-
+  This information can be used to cite the repository
+  code if one sees fit.
+type: software
+authors:
+  - given-names: Max
+    family-names: Engelhardt
+    email: engelhardt@hfm.tum.de
+    affiliation: Technical University of Munich
+    orcid: 'https://orcid.org/0000-0002-9781-7476'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/ENM256/test-code-publishing.git
+    description: Github repository link
+abstract: >-
+  This is a short description of the script, its use
+  and context of creation (publication -> processing
+  of experimental data) 
+license: MIT
